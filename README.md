@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Dev
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my Programming Career
-- 📫 How to reach me: punsalang.zachary@gmail.com / [linkden] (https://www.linkedin.com/in/zachary-punsalang-1b0b99194/)
+- 📫 How to reach me: punsalang.zachary@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a twin brother
 
