@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a twin brother
 
-### About Me
+### [About Me] (https://www.linkedin.com/in/zachary-punsalang-1b0b99194/)
 I'm a Computer Science major at University of Irvine and I've been interested in Web Development through my college career. I've been told that the Web is the most influential place and I want to be one of those people that can influence others.
