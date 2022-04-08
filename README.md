@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on MERN Stack collaborative To Do List App
-- 🌱 I’m currently learning Machine Learning and Computer Networks
+- 🌱 I’m currently learning to build an Ecommerce Website (Full Stack Dev)
 - 👯 I’m looking to collaborate on Web Dev
 - 💬 Ask me about my Programming Career
 - 📫 How to reach me: punsalang.zachary@gmail.com
