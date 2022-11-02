@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 ### [About Me](https://www.linkedin.com/in/zachary-punsalang-1b0b99194/)
-I'm recent graduate from the University of Irvine as a Computer and Information Science major and I've been interested in Web Development through my college career. I've been told that the Web is the most influential place and I want to be one of those people that can be part of it.
+Hola I'm ZACHURI. I'm a Computer and Information Science graduate from the University of California, Irvine. What inspires me to code is being able to build valuable projects that can help individuals with their lives, my curiosity on wanting to know how things are built from the ground up, and how one is able to express their ideas through code. I am a developer that is willing to learn new ideas and technologies.
