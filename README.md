@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning to build an Ecommerce Website (Full Stack Dev)
-- 🔭 I’m currently working on T3 Stack blog
+- 🌱 I’m currently learning more about three.js (import 3d models on to websites)
+- 🔭 I’m currently working on redesigning ArcelDesign, Inc.
 - 👯 I’m looking to collaborate on Web Dev
 - 💬 Ask me about my Programming Career
 - 📫 How to reach me: punsalang.zachary.work@gmail.com
