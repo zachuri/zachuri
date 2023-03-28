@@ -43,4 +43,7 @@ Hola I'm ZACHURI. I'm a Computer and Information Science graduate from the Unive
   <a href="https://www.linkedin.com/in/zachary-punsalang/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
+  <a href="https://www.zachuri.com/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/My_Portfolio-685EA9.svg?&style=for-the-badge" />
+  </a> 
 </p>
