@@ -3,7 +3,7 @@
 </br>
 
 <p>
-Hola I'm ZACHURI. I'm a Computer and Information Science graduate from the University of California, Irvine. What inspires me to code is being able to build valuable projects that can help individuals with their lives, my curiosity on wanting to know how things are built from the ground up, and how one is able to express their ideas through code. I am a developer that is willing to learn new ideas and technologies. Let's build together!
+Hi, I'm Zack! I’m a Computer Science graduate from the University of California, Irvine, driven by a passion for building meaningful projects that positively impact people's lives. My curiosity about how things are created from the ground up inspires me to explore and understand the intricate details of technology. I’m also fascinated by how coding allows us to express ideas and bring them to life. As a developer, I’m always eager to learn new technologies, embrace innovative ideas, and grow through collaboration and challenges.
 </p>
 
 <h3>Things I code with</h3>
