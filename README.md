@@ -4,4 +4,4 @@ Hi, I'm Zack! I’m a Computer Science graduate from the University of Californi
 </p>
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,express,prisma,docker,aws,supabase,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,express,prisma,docker,aws,supabase,vim)](https://skillicons.dev)
