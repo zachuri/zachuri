@@ -6,4 +6,4 @@ As a developer, I’m always eager to learn new technologies, embrace innovative
 
 
 ## Main Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,express,prisma,docker,aws,supabase,vim)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,express,prisma,docker,aws,supabase,vim)
