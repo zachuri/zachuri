@@ -2,4 +2,4 @@ Hi, I'm Zack! I’m a Computer Science graduate from the University of Californi
 
 As a developer, I’m always eager to learn new technologies, embrace innovative ideas, and grow through collaboration and challenges.
 
-![My Skills](https://skillicons.dev/icons?i=typescript,react,next,express,tailwind,prisma,bun,aws,cloudflare,supabase,obsidian,vim&perline=6)
+![My Skills](https://skillicons.dev/icons?i=typescript,react,next,express,tailwind,prisma,bun,aws,cloudflare,supabase,obsidian,vim)
