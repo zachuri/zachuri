@@ -2,4 +2,4 @@ Hi I'm zac! Driven by passion for building projects that positively impact peopl
 
 As a developer, I’m always eager to learn new technologies, embrace innovative ideas, and grow through collaboration and challenges.
 
-![My Skills](https://skillicons.dev/icons?i=typescript,bun,deno,react,next,astro,tailwind,redux,vite,express,nestjs,prisma,postgres,sqlite,supabase,aws,cloudflare,workers,vercel,docker,vim,neovim,arch,obsidian&perline=6)
+![My Skills](https://skillicons.dev/icons?i=typescript,react,next,express,tailwind,prisma,bun,aws,cloudflare,workers,supabase,obsidian,,vim,astro,arch,deno,docker,neovim,nestjs,postgres,sqlite,redux,vercel,vite&perline=12)
